@@ -1,4 +1,4 @@
-beer_count = 11
+beer_count = 99
 
 def beer_message(n)
   if n == 1
